@@ -1,4 +1,4 @@
-[![Python CI](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml/badge.svg?event=status)](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml)
+[![Python CI](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml/badge.svg)](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml)
 
 # GERENTE DE ESTUDOS (CLI)
 
