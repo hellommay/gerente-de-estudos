@@ -1,3 +1,5 @@
+[![Python CI](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml/badge.svg?event=status)](https://github.com/hellommay/gerente-de-estudos/actions/workflows/ci.yml)
+
 # GERENTE DE ESTUDOS (CLI)
 
 Uma ferramenta de linha de comando em Python criada para gerenciar e registrar sessões de estudos ao longo das fases de aprendizado.
